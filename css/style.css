@@ -18,6 +18,21 @@ body{
   color: #fff;
   background: #675AFE;
 }
+.container {
+  display: block;
+}
+.container h3 {
+  color: #252930 ;
+}
+.container a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 25px;
+}
+.text-made {
+  display: flex;
+  justify-content: center;
+}
 .wrapper{
   display: flex;
   flex-wrap: wrap;
